@@ -1,7 +1,6 @@
 # 🚀 Welcome to my project!
 
 This app is bootstrapped by [Bun](https://bun.sh/).\
-
 First, run the development server:
 
 ```bash
